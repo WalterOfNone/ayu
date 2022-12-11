@@ -1,16 +1,6 @@
 [color-theme]
 name = "Ayu Mirage"
 
-[ui]
-font-family = ""
-font-size = 13
-header-height = 35
-status-height = 25
-tab-min-width = 100
-activity-width = 50
-scroll-width = 10
-drop-shadow-width = 0
-
 [color-theme.base]
 white = "#ABB2BF"
 black = "#282C34"
