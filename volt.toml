@@ -2,6 +2,6 @@ name = "ayu"
 display-name = "Ayu"
 description = "The Ayu theme"
 version = "0.1.0"
-author = "walterofnone"
+author = "WalterOfNone"
 repository = "https://github.com/walterofnone/ayu"
 themes = ["ayu-mirage.toml"]
