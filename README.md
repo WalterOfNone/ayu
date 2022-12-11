@@ -1,4 +1,3 @@
-Ayu
+# ayu
 
-Available themes:
-ayu-mirage
+it sure is ayu
