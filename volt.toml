@@ -3,5 +3,6 @@ display-name = "Ayu"
 description = "The Ayu theme"
 version = "0.1.0"
 author = "WalterOfNone"
+icon = "icon.png"
 repository = "https://github.com/walterofnone/ayu"
 color-themes = ["ayu-mirage.toml"]
