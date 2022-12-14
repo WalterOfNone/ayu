@@ -1,5 +1,9 @@
 # ayu
 
-it sure is ayu
-themes:
+Ayu Theme
+
+Themes:
+
 Ayu Mirage
+
+Ayu Dark

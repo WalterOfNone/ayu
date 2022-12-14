@@ -1,8 +1,8 @@
 name = "ayu"
 display-name = "Ayu"
 description = "The Ayu theme"
-version = "0.1.0"
+version = "0.1.1"
 author = "WalterOfNone"
 icon = "icon.png"
 repository = "https://github.com/walterofnone/ayu"
-color-themes = ["ayu-mirage.toml"]
+color-themes = ["ayu-mirage.toml, ayu-dark.toml"]
