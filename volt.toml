@@ -5,4 +5,4 @@ version = "0.1.1"
 author = "WalterOfNone"
 icon = "icon.png"
 repository = "https://github.com/walterofnone/ayu"
-color-themes = ["ayu-mirage.toml, ayu-dark.toml"]
+color-themes = ["ayu-dark.toml", "ayu-mirage.toml"]
